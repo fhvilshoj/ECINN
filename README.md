@@ -1,7 +1,6 @@
 ### Running the code
 # ECINN: Efficient Counterfactuals from Invertible Neural Networks
-
-This is the official code base for the paper [ECINN: Efficient Counterfactuals
+This code is based on [ECINN: Efficient Counterfactuals
 from Invertible Neural Networks](https://arxiv.org/abs/2103.13701).
 
 ## Practical stuff
