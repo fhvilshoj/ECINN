@@ -1,0 +1,17 @@
+name: ecinn
+channels:
+    - conda
+    - pytorch
+dependencies:
+    - python=3.7
+    - pytorch=1.4.*
+    - numpy=1.18.*
+    - matplotlib=3.1.*
+    - torchvision=0.5.*
+    - scipy=1.6.*
+    - natsort=7.1.*
+    - tensorboard=2.5.*
+    - tqdm
+    - pip
+    - pip:
+        - -e git+https://github.com/VLL-HD/FrEIA.git@c5fe1af0de8ce9122b5b61924ad75a19b9dc247#egg=FrEIA
