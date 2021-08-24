@@ -1,0 +1,3 @@
+[submodule "submodules/IB-INN"]
+	path = submodules/IB-INN
+	url = https://github.com/VLL-HD/IB-INN.git
